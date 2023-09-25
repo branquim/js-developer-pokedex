@@ -155,6 +155,11 @@
   border-radius: 8px;
 }
 
+.conteudo-modal img{
+  width: 100%;
+  height: 230px;
+}
+
 .conteudo-modal .name {
     text-transform: capitalize;
     color: #fff;
